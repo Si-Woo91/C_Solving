@@ -5,7 +5,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    printf("테스트");
+
+    return 0;
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
