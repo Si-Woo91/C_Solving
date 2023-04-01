@@ -6,6 +6,7 @@
 int main()
 {
     printf("테스트");
+    printf("커밋이 된거니??");
 
     return 0;
 
