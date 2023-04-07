@@ -37,8 +37,8 @@ int main() {
 	int a;
 	int b;
 
-	scanf("%d", &a);
-	scanf("%d", &b);
+	scanf_s("%d", &a);
+	scanf_s("%d", &b);
 
 	if (a > b) {
 		printf(">");
